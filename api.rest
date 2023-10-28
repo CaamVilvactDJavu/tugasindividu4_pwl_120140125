@@ -1,0 +1,27 @@
+@baseUrl = http://localhost:6543
+
+###
+POST {{baseUrl}}/register
+
+{
+    "username": "Ilham",
+    "password": "12341234",
+    "role": "user"
+}
+
+###
+POST {{baseUrl}}/login
+
+{
+    "username": "Ilham",
+    "password": "12341234"
+}
+
+
+###
+GET {{baseUrl}}/logout
+
+{
+    "username": "Ilham",
+    "password": "12341234"
+}

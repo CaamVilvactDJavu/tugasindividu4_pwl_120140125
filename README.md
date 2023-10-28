@@ -61,13 +61,13 @@ dan
 env\Scripts\alembic -c development.ini upgrade head
 ```
 
-9. Muat database
+8. Muat database
 
 ```
 env\Scripts\initialize_tugasindividu4_pwl_120140125_db development.ini
 ```
 
-10. Jalankan test aplikasi
+9. Jalankan test aplikasi
 
 ```
 pytest
@@ -78,3 +78,15 @@ pytest
 ```
 env\Scripts\pserve development.ini
 ```
+
+## Screenshot
+
+1. Register
+![register](./public/register.png)
+
+2. Login 
+![login](./public/login.png)
+
+3. Logout
+![logout](./public/logout.png)
+
