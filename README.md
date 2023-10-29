@@ -10,7 +10,7 @@
 1. Clone repository ini 
 
 ```
-git clone https://github.com/henhen02/Tugas-Individu-4-PWL-Backend.git
+git clone https://github.com/CaamVilvactDJavu/tugasindividu4_pwl_120140125.git
 ```
 
 2. Ganti ke directory pada repository ini
